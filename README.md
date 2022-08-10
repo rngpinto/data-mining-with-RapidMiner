@@ -11,4 +11,4 @@ The target variable is numeric, and therefore the analysis will be concerning th
 Several target variable prediction algorithms were applied in RapidMiner program, and it was concluded that the model that achieves the best performance is the Linear Regression.
 
 
-# Keywords: CRISP-DM; Data Mining; Supervised Learning; Social media; Total Interactions; Linear Regression.
+### Keywords: CRISP-DM; Data Mining; Supervised Learning; Social media; Total Interactions; Linear Regression.
