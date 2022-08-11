@@ -1,6 +1,5 @@
 # data-mining-with-RapidMiner
 
-# Data Mining Project of my Postgraduate course in Data Analysis for Business
 
 ## Purpose of this project
 
