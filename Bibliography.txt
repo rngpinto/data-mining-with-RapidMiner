@@ -1,0 +1,12 @@
+Bibliography
+
+
+(Moro et al., 2016) S. Moro, P. Rita and B. Vala. Predicting social media performance metrics and evaluation of the impact on brand building: A data mining approach. Journal of Business Research, Elsevier, In press.
+
+UCI, Machine Learning Repository, Facebook metrics Data Set, 2016, acesso em Fevereiro 2022, http://archive.ics.uci.edu/ml/datasets/Facebook+metrics
+
+Statistica, Number of social network users worldwide from 2017 to 2025, 28 Janeiro 2022, acesso em Fevereiro 2022, https://www.statista.com/statistics/278414/number-of-worldwide-social-network-users/
+
+(Chapman et al., 2000). CRISP-DM 1.0, Step-by-step data mining guide, SPSS.
+
+(Silva, 2020). Detecção de contas anômalas e influência em redes sociais na propaganda política e em eleições. Universidade Nova de Lisboa.
